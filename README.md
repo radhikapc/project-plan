@@ -46,3 +46,13 @@ Interacting with etcd (Documentation/dev-guide/interacting_v3.md) | Anthony /Has
 
 ## Etcd-Operator Documentation Deliverables and Outlines
 
+Feature | Feature Contact | Engineering Contact | Sol Eng / Field / Support Contact | Peer Reviewers | Effort(days) |  Approx date of completion |Status | 
+--- | --- | --- | --- |--- |--- |--- |--- |
+--- | --- | --- | --- |--- |--- |--- |--- |
+--- | --- | --- | --- |--- |--- |--- |--- |
+--- | --- | --- | --- |--- |--- |--- |--- |
+--- | --- | --- | --- |--- |--- |--- |--- |
+--- | --- | --- | --- |--- |--- |--- |--- |
+--- | --- | --- | --- |--- |--- |--- |--- |
+--- | --- | --- | --- |--- |--- |--- |--- |
+--- | --- | --- | --- |--- |--- |--- |--- |
