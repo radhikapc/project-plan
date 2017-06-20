@@ -26,19 +26,19 @@ Building etcd (Documentation/dl_build.md) | Anthony /Haseeb/gyuho lee | Xiang| u
 Setting up local cluster (Documentation/dev-guide/local_cluster.md) | Anthony /Haseeb/ | Xiang | unknown |Anthony | 3 |6/20 |submitted PR |
 Interacting with etcd (Documentation/dev-guide/interacting_v3.md) | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 6/23 |might need to re-org with content in other files|
 gprc gateway(dev-guide/api_grpc_gateway.md)| Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 2 | 6/28 ||
---- | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 6/23 ||
---- | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 6/23 ||
---- | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 6/23 ||
---- | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 6/23 ||
---- | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 6/23 ||
---- | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 6/23 ||
---- | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 6/23 ||
---- | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 6/23 ||
---- | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 6/23 ||
---- | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 6/23 ||
---- | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 6/23 ||
---- | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 6/23 ||
---- | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 6/23 ||
+gRPC naming and discovery (dev-guide/grpc_naming.md) | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 3 | 7/3  ||
+gPRC proxy(op-guide/grpc_proxy.md) | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 7/6 ||
+--- | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 7/ ||
+--- | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 7/ ||
+--- | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 7/ ||
+--- | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 7/ ||
+--- | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 7/ ||
+--- | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 7/ ||
+--- | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 7/ ||
+--- | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 7/ ||
+--- | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 7/ ||
+--- | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 7/ ||
+--- | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 4 | 7/ ||
 Updating glossary terms (developing concept docs) | Anthony /Haseeb/gyuho lee | Xiang| unknown |Anthony | 7 | 7/30 |on-going|
 
 
