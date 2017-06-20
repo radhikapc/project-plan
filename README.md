@@ -15,6 +15,22 @@ This repository is created to track and share the etcd and etcd-operator documen
 * Severity and priority of a defect or feature are not always known
 * Documentation resource might need support in setting up complex test deployment
 
+## Engineering Resources
+
+* Xiang Li
+* Anthony
+* Haseeb
+* Hongchao Deng
+* gyuho lee
+* Colin (solution engineering)
+* Duffie Cooley (solution engineering)
+* Brandon Philips (CTO)
+
+## Documentation
+
+* Radhika
+
+
 ## Etcd Documentation Deliverables and Outlines
 
 The Documentation plan is derived from discussions with the Engineering manager, Xiang Li. The following table lists the high level list of tasks and approximate timeline for completion.
