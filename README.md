@@ -78,6 +78,7 @@ Feature | Feature Contact (tech review) | Engineering Contact | Sol Eng / Field 
 ## Related Documentation Tasks
 
 Disaster recovery of clusters (Tectonic/Bootkube/etcd). Under research mode.
-Ref: https://github.com/diegs/bootkube/blob/1090923ac1caeef3dfed6ceb1b533c36232cd0a1/Documentation/disaster-recovery.md
+Ref: 
+     [disaster recovery](https://github.com/diegs/bootkube/blob/1090923ac1caeef3dfed6ceb1b533c36232cd0a1/Documentation/disaster-recovery.md)
 
      https://github.com/coreos-inc/tectonic/pull/1736
